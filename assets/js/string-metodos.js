@@ -54,7 +54,7 @@ function comecaCom(){
 
 function terminaCom(){
 
-}*/
+}
 
 function contem() {
     let refeicao = ' pure de feijao com frango';
@@ -121,4 +121,4 @@ function jogoDasPalavras() {
 
     }
 
-}
+}*/
