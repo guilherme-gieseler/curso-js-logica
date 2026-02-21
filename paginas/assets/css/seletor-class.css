@@ -1,0 +1,31 @@
+.azul{
+    background-color: blue;
+
+}
+
+.rosa{
+    background-color: pink;
+   
+}
+
+.verde{
+    background-color: green;
+
+}
+
+.preto{
+    background-color: black;
+   
+}
+
+.roxo{
+    background-color: purple;
+   
+}
+
+.caixa {
+    color: white;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+}
