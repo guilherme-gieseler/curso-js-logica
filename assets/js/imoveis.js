@@ -1,0 +1,1 @@
+const campoLocal = document.getElementById
